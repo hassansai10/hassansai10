@@ -12,13 +12,6 @@ I am a beginner Data Scientist <br>Currently working on deep learning <br>Have a
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=hassansai10&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 ###
 
 <a href="https://www.credly.com/badges/7aa1266f-1ea9-4d29-abd4-6f42f5f057a2/public_url">
